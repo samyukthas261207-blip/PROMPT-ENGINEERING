@@ -470,3 +470,4 @@ Step 5: Alignment & Safety (RLHF)Reinforcement Learning from Human Feedback (RLH
 <img width="632" height="383" alt="image" src="https://github.com/user-attachments/assets/f15ac0e0-061b-43ac-8ddd-047f9da2b0de" />
 
 # Result
+Using chatgpt and gemini for given prompt topics output executed successfully. 
