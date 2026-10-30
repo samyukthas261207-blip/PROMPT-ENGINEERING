@@ -1,3 +1,6 @@
+# NAME:Samyuktha.S
+# REG.NO:212225040363
+# DATE:31-10-2026
 # Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Experiment:
 Develop a comprehensive report for the following exercises:
@@ -6,7 +9,8 @@ Develop a comprehensive report for the following exercises:
 3.	Generative AI applications.
 4.	Generative AI impact of scaling in LLMs.
 5.Explain about LLM and how it is build
-   
+## TOOLS
+chatgpt and gemini
 
 # Algorithm: Step 1: Define Scope and Objectives
 1.1 Identify the goal of the report (e.g., educational, research, tech overview)
@@ -468,6 +472,9 @@ Step 4: Supervised Fine-Tuning (SFT)Base pre-trained models simply autocomplete 
 Step 5: Alignment & Safety (RLHF)Reinforcement Learning from Human Feedback (RLHF) aligns the model with human preferences regarding accuracy and safety:Human evaluators rate multiple model outputs from best to worst.A reward model is trained on these human preferences.The LLM is optimized to generate outputs that maximize safety, helpfulness, and honesty while rejecting dangerous requests (e.g., cyberattack blueprints).Real-World Examples & ApplicationsChatGPT (OpenAI): General-purpose conversation, writing assistance, and complex reasoning.Claude (Anthropic): Summarization of long documents, scientific research, and structural code generation.Gemini (Google): Multimodal analysis spanning text, audio, images, and live video.GitHub Copilot: Auto-completing software code and drafting unit tests inline for developers.
 
 <img width="632" height="383" alt="image" src="https://github.com/user-attachments/assets/f15ac0e0-061b-43ac-8ddd-047f9da2b0de" />
+## COMPARISON TABLE
+<img width="550" height="647" alt="image" src="https://github.com/user-attachments/assets/fb26266d-8a86-4d06-a878-d9b4860f1a84" />
+
 
 # Result
 Using chatgpt and gemini for given prompt topics output executed successfully. 
